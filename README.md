@@ -1,4 +1,4 @@
-# Gràficos en Java
+# Gráficos en Java
 
 mvn package
 
