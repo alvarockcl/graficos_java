@@ -5,7 +5,7 @@ mvn package
 java -cp target/graficos_java-1.jar cl.fuentes.app.App
 
 
-![alt text](http://https://github.com/alvarockcl/graficos_java/graficos_java.png)
+![alt text](https://github.com/alvarockcl/graficos_java/blob/master/graficos_java.png)
 
 
 
